@@ -7,3 +7,4 @@ Projeto de um simples contador, com opções de aumentar e dimunir de acordo com
 ### - Calculadora de IMC
 Calculadora simples de IMC, aprendizado: Form e validação de campos.p
 ### - Conversor de moedas:
+App para pegar contação atual da moeda dolar e euro, e fazer um conversor entre real, dolar e euro.
